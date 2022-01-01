@@ -1,8 +1,8 @@
 # Advent of Rust
 
 My solutions to [advent of code 2021](https://adventofcode.com/2021)
-(Will be posted after the event ends)
 
+They contain comments explaining stuff + I left some failed attempts in comments (took too long).
 
 #### How to run 
 `cargo run -- <day> <part> [-e]`  
