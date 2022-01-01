@@ -2,7 +2,7 @@
 
 My solutions to [advent of code 2021](https://adventofcode.com/2021)
 
-They contain comments explaining stuff + I left some failed attempts in comments (took too long).
+They contain comments explaining stuff + I commented some failed attempts (ones that took too long).
 
 #### How to run 
 `cargo run -- <day> <part> [-e]`  
